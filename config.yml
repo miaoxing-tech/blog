@@ -1,0 +1,17 @@
+# site title
+title: blog
+
+# github user
+user: miaoxing-tech
+
+# issue repo
+repo: blog
+
+# multi-author
+authors:
+
+# per page
+per_page: 10
+
+#sandbox
+sandbox: false
